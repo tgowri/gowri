@@ -1,5 +1,5 @@
 #include<stdio.h>
-3include<conio.h>
+
 void main()
 {
 int n,a[10],i,max;
@@ -17,5 +17,5 @@ max=a[0];
 }
 }
 printf("%d",max);
-getch();
+return 0;
 }
